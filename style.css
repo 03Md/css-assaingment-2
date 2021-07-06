@@ -1,0 +1,16 @@
+.rabbi{
+    color: rgb(52, 191, 233);
+    height: 200px;
+    width: 300px;
+    background-color: rgb(24, 9, 18);
+    border: 5px dotted rgb(37, 240, 48);
+    overflow: auto;
+    margin: 5px;
+    font-size: 30px;
+    padding: 10px;
+    float: left;
+}
+span{
+    color: rgb(247, 35, 35);
+    font-size: 50px;
+}
